@@ -9,7 +9,7 @@ int main() {
     cin >> t;
     while (t--) {
         long long a, b, c;
-        cin >> a >> b>>  c;
+        cin >> a >> b>> c;
 
         // Chef must use exactly two of the three spells. To maximize the
         // total hit points, pick the two largest powers among A, B, C.
